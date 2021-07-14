@@ -6,4 +6,4 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [https://c745cd513c6498802ac87c15478947f6fb5212e4.surge.sh/](https://c745cd513c6498802ac87c15478947f6fb5212e4.surge.sh/)
+- Solution URL: [https://beb54f85f53deea4e5ddc72983f77cb617a80bc9.surge.sh/](https://beb54f85f53deea4e5ddc72983f77cb617a80bc9.surge.sh/)
