@@ -2,7 +2,7 @@
   "name": "fylo-data-storage-component-master",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "public/index.html",
   "scripts": {
     "start": "parcel serve src/index.html --no-cache",
     "build": "parcel build src/index.html"
@@ -10,10 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "parcel-bundler": "^1.12.5"
-  },
   "devDependencies": {
-    "sass": "^1.35.2"
+    "@parcel/transformer-sass": "^2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
