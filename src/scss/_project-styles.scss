@@ -2,16 +2,14 @@
 @use "sass:color" as *;
 
 ::selection {
-	background-color: v("blueBright");
+	background-color: v("blueDark");
 }
 
 body {
-	font: 400 1rem / 1.45 "Open Sans", sans-serif;
-	// background-color: v(blueVeryDark);
+	font: 400 1rem / 1.45 "Raleway", sans-serif;
 	color: v("bluePale");
 	min-height: 100vh;
 	display: flex;
-	font-variant-numeric: oldstyle-nums;
 	padding: 72px 24px;
 	background: v(blueVeryDark) url("../images/bg-desktop.png") no-repeat center
 		bottom / contain;
